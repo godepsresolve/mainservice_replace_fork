@@ -1,4 +1,4 @@
-module github.com/godepsresolve/mainservice
+module github.com/godepsresolve/mainservice_replace_fork
 
 go 1.20
 

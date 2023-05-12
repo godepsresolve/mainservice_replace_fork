@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/godepsresolve/mainservice"
+	"github.com/godepsresolve/mainservice_replace_fork"
 )
 
 func main() {
