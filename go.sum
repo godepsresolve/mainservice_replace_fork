@@ -1,0 +1,8 @@
+github.com/godepsresolve/corelib v1.2.0 h1:mTqTcpxNInvXJvp+mVHnlOMOKHrPvf40isbE+cgo+9w=
+github.com/godepsresolve/corelib v1.2.0/go.mod h1:oVkgxTyWSWl21fLEUMrtINkVeSnp52imqRZeelJch7E=
+github.com/godepsresolve/helperlib v1.0.0 h1:Kh56mq3q++4AF61wqxb1bAiNelXBq3yIluvzHDd9jJs=
+github.com/godepsresolve/helperlib v1.0.0/go.mod h1:dXber7XOo06+oqm/LTjm6HKLzKhdkE/Jlbsr8S6vEWA=
+github.com/godepsresolve/plugin v1.0.0 h1:sf9ijxk9jWSzAVQO1kvbIkDznK5WaCfIDYZjTGZkk+M=
+github.com/godepsresolve/plugin v1.0.0/go.mod h1:MUL6+Ubgr3vVJdW9pZ/JK4GN4GAaMVV+qULBNwGplQQ=
+github.com/godepsresolve/wraplib v1.0.0 h1:2vYwTCDo5PdRsygG3GcTCWDXsxuA0z3nn6lMzkRhYK8=
+github.com/godepsresolve/wraplib v1.0.0/go.mod h1:/rR5+zFWSlM6Dxuv1Q4qBvxksmeYcirYcladV5OJ8i0=
